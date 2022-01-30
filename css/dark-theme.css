@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+#theme-selector {
+    color: #fff;
+    background: rgba(255, 255, 255, .3);
+}
+
+label {
+    color: #fff;
+}
